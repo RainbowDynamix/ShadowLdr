@@ -25,4 +25,4 @@ The loader itself can be configured in "config.h"
 - `APCINJECT_PROCESS`: The name of the process that the shellcode will be injected into via Earlybird APC injection
 
 ### TODO:
-[ ] Encrypt/hide strings (payload url, user agent, domain name, etc, etc.)
+- [ ] Encrypt/hide strings (payload url, user agent, domain name, etc, etc.)
