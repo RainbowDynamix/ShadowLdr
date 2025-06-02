@@ -26,3 +26,7 @@ The loader itself can be configured in "config.h"
 
 ### TODO:
 - [ ] Encrypt/hide strings (payload url, user agent, domain name, etc, etc.)
+
+### Credits
+- Maldev Academy: Ideas and code snippets
+- [@EricEsquivel](https://github.com/EricEsquivel): Inspiration and guidance
